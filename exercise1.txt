@@ -1,0 +1,19 @@
+Klasy:
+-Person
+-Adress
+-Student
+-Professor
+
+Atrybuty:Name,Surname,Street,City,State,Country(string)
+Age,Postal Code,Student Number, Salary(int)
+Average Mark(double)
+
+
+Metody:
+Is Eligiable to Enroll (boolean T/F)
+Get Seminars Taken (boolean T/F)
+Validate (boolean T/F)
+Output As Label (boolean T/F)
+IntroduceYourself()[String]
+
+
